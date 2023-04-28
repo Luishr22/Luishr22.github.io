@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ingeniero en Computacion.
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic-800x966.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p> Universidad Autonoma del Estado de Mexico </p>
