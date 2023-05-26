@@ -6,7 +6,7 @@ subtitle: Ingeniero en Computacion.
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  assets/img: yo.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p> Universidad Autonoma del Estado de Mexico </p>
