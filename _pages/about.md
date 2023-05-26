@@ -13,7 +13,7 @@ profile:
     <p> Estado de Mexico, Mexico </p>
 
 ---
-![Jose Luis Hernandez Rodriguez](/assets/yo.jpeg){: style="float: right; width: 200px; margin-left: 30px;"}
+![Jose Luis Hernandez Rodriguez](/assets/yo.jpg){: style="float: right; width: 200px; margin-left: 30px;"}
 
 Hola mi nombre es Jose Luis Hernandez Rodriguez, soy estudiante de la Universidad Autonoma del Estado de Mexico de la carrera de Ingeneria en Computacion, mi punto de interes en el ambito profesional es la programacion, el diseño de paginas web y la robotica, en el ambito personal son los video juegos, la lectura, el ejercicio y las motocicletas. 
 
