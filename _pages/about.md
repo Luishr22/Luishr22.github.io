@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /assets/
 subtitle: Ingeniero en Computacion.
 
 profile:
@@ -27,6 +27,6 @@ Cuando termine mi Ingeneria me gustaria trabajar de Desarrollador de software o 
 
 ## Contáctame
 
-Puedes contactarme a través de mi correo electrónico [luis.hr1099@gmail.com](gmail:luis.hr1099@gmail.com) o seguirme en [Instagram](https://www.instagram.com/luis_hr22).
+Puedes contactarme a través de mi correo electrónico [luis.hr1099@gmail.com](mailto:luis.hr1099@gmail.com) o seguirme en [Instagram](https://www.instagram.com/luis_hr22).
 
 ¡Gracias por visitar mi sitio web!
