@@ -6,7 +6,8 @@ subtitle: Ingeniero en Computacion.
 
 profile:
   align: right
-  image: yo.jpeg
+  ![Descripción de la imagen](/assets/yo.jpeg)
+
   image_circular: false # crops the image to make it circular
   address: >
     <p> Universidad Autonoma del Estado de Mexico </p>
@@ -23,6 +24,6 @@ Cuando termine mi Ingeneria me gustaria trabajar de Desarrollador de software o 
 
 ## Contáctame
 
-Puedes contactarme a través de mi correo electrónico [Personal](luis.hr1099@gmail.com) o seguirme en [Instagram](https://www.instagram.com/luis_hr22).
+Puedes contactarme a través de mi correo electrónico [luis.hr1099@gmail.com](gmail:luis.hr1099@gmail.com) o seguirme en [Instagram](https://www.instagram.com/luis_hr22).
 
 ¡Gracias por visitar mi sitio web!
