@@ -13,10 +13,10 @@ profile:
 ---
 ![Jose Luis Hernandez Rodriguez](/assets/yo.jpg){: style="float: right; width: 200px; margin-left: 30px;"}
 
-  <div style="text-aling: right;">
+  <div style="text-align: right;">
    <p>Universidad Autonoma del Estado de Mexico</p>
     <p> Estado de Mexico, Mexico </p>
-    Correo Institucional: jhernandezr055@alumno.uaemex.mx
+    <p>Correo Institucional: [jhernandezr055@alumno.uaemex.mx ](mailto:jhernandezr055@alumno.uaemex.mx)</p>
   </div>
 
 
