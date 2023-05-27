@@ -15,9 +15,9 @@ profile:
 
   <div style="text-aling: right;">
    Universidad Autonoma del Estado de Mexico
-    <p> Estado de Mexico, Mexico </p>
+     Estado de Mexico, Mexico
     Correo Institucional: jhernandezr055@alumno.uaemex.mx
-  </div >
+  </div>
 
 
 
