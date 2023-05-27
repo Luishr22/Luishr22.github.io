@@ -9,13 +9,14 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     
-   
 
 ---
-![Jose Luis Hernandez Rodriguez](/assets/yo.jpg){: style="float: right; width: 200px; margin-left: 50px;"
-<p> Universidad Autonoma del Estado de Mexico </p>
+![Jose Luis Hernandez Rodriguez](/assets/yo.jpg){: style="float: right; width: 200px; margin-left: 50px;"}
+
+  <div> style="text-aling: right;"> Universidad Autonoma del Estado de Mexico
     <p> Estado de Mexico, Mexico </p>
-    <p> Correo Institucional: jhernandezr055@alumno.uaemex.mx </p>}
+    <p> Correo Institucional: jhernandezr055@alumno.uaemex.mx </p>
+  </div>
 
 
 
