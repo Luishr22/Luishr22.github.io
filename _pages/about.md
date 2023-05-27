@@ -2,18 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ingeniero en Computacion.
+subtitle: <a href='#'> Ingeniero en Computacion. </a>
 
 profile:
   align: right
-  image: yo.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> Universidad Autonoma del Estado de Mexico </p>
-    <p> Estado de Mexico, Mexico </p>
+    
+   
 
 ---
-![Jose Luis Hernandez Rodriguez](/assets/yo.jpg){: style="float: right; width: 200px; margin-left: 30px;"}
+![Jose Luis Hernandez Rodriguez](/assets/yo.jpg){: style="float: right; width: 200px; margin-left: 50px;"
+<p> Universidad Autonoma del Estado de Mexico </p>
+    <p> Estado de Mexico, Mexico </p>
+    <p> Correo Institucional: jhernandezr055@alumno.uaemex.mx </p>}
+
+
 
 Hola mi nombre es Jose Luis Hernandez Rodriguez, soy estudiante de la Universidad Autonoma del Estado de Mexico de la carrera de Ingeneria en Computacion, mi punto de interes en el ambito profesional es la programacion, el diseño de paginas web y la robotica, en el ambito personal son los video juegos, la lectura, el ejercicio y las motocicletas. 
 
